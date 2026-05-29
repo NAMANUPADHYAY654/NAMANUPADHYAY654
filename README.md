@@ -18,6 +18,9 @@ Passionate about building scalable applications, solving real-world problems, an
 <a href="https://www.linkedin.com/in/naman-upadhyay7733/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+<a href="https://naman-portfolio-azure.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 </p>
 
 </div>
