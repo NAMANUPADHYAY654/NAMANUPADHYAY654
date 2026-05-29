@@ -2,36 +2,41 @@
 
 # Hi, I'm Naman Upadhyay 👋
 
-### Computer Science Student | Software Developer | Problem Solver
+### Computer Science Student | Software Developer | Backend Enthusiast
 
-Building scalable applications, exploring backend systems, and continuously learning new technologies.
+Passionate about building scalable applications, solving real-world problems, and continuously learning new technologies.
+
+<p>
+<a href="mailto:upadhyay_naman@srmap.edu.in">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/NAMANUPADHYAY654">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
 
 </div>
 
-<br>
+---
 
 ## About Me
 
-I'm a B.Tech Computer Science student passionate about software development, backend engineering, and solving real-world problems through technology.
+I'm a B.Tech Computer Science student with a strong interest in software engineering, backend development, and system design. I enjoy transforming ideas into practical applications and continuously improving my problem-solving skills through projects and coding challenges.
 
 * 🎓 B.Tech Computer Science Engineering
-* 💻 Interested in Backend Development & System Design
-* 🚀 Skilled in C++, Python, JavaScript, PHP, HTML, CSS and MySQL
-* 📚 Strong understanding of DSA, OOP, DBMS, Operating Systems and Computer Networks
-* 🔧 Building Full-Stack Applications and API-driven Solutions
-* 🌱 Currently exploring Cloud Computing, AI and Scalable System Design
+* 💻 Backend Development & Full Stack Development
+* 🚀 Strong in C++, Python, JavaScript, PHP and MySQL
+* 📚 Data Structures & Algorithms Enthusiast
+* 🔧 Experience with REST APIs and Web Development
+* 🌱 Currently learning System Design, Cloud Computing and AI
+* ⚡ Always open to learning new technologies
 
-<br>
-
-## Connect With Me
-
-<p align="left">
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
-<br>
+---
 
 ## Tech Stack
 
@@ -39,78 +44,76 @@ I'm a B.Tech Computer Science student passionate about software development, bac
 <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,php,html,css,mysql,git,github,vscode,postman" />
 </p>
 
-<br>
+### Languages
 
-## Skills & Technologies
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
 
-<p align="center">
+### Web Technologies
 
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
-</p>
+### Database
 
-<br>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
-Featured Projects
+### Tools
 
- 🚗 Car Rental Website
-
-A complete car rental platform that allows users to browse vehicles, check availability, and manage bookings through an intuitive interface.
-
-**Tech Stack:** HTML, CSS, JavaScript, PHP, MySQL
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 
 ---
+
+## Featured Projects
+
+### 🚗 Car Rental Website
+
+A responsive web application that enables users to browse available vehicles, view rental details, and manage bookings efficiently.
+
+**Tech Used:** HTML, CSS, JavaScript, PHP, MySQL
 
 ### 🅿️ Smart Parking Management System
 
-A parking allocation and management solution focused on reducing delays and improving parking space utilization through automation.
+A parking management solution designed to automate parking allocation, reduce congestion, and improve parking space utilization.
 
-**Tech Stack:** C++, Data Structures
-
----
+**Tech Used:** C++, Data Structures
 
 ### 📍 QR Code & Map Integration System
 
-A project integrating QR code generation and map-based location services with frontend and backend APIs.
+Developed a system integrating QR code generation and map services with API connectivity for efficient location-based operations.
 
-**Tech Stack:** JavaScript, APIs, Backend Integration
+**Tech Used:** JavaScript, APIs, Backend Integration
+
+### 🤖 API & Automation Projects
+
+Built automation solutions and API-driven applications focused on improving workflow efficiency and data processing.
+
+**Tech Used:** Python, REST APIs
 
 ---
 
-### 🤖 Automation & API Projects
-
-Built automation tools and API-driven solutions focused on improving workflow efficiency and data management.
-
-**Tech Stack:** Python, REST APIs
-
-<br>
-
-## Core Areas
+## Core Knowledge
 
 * Data Structures & Algorithms
 * Object-Oriented Programming
 * Database Management Systems
 * Operating Systems
 * Computer Networks
-* Backend Development
 * REST APIs
+* Backend Development
 * System Design
 
-<br>
+---
 
-<div align="center">
+### Learning • Building • Growing
 
-### "Learning, Building and Growing Every Day"
+*"Every project is an opportunity to learn something new."*
 
 </div>
