@@ -1,122 +1,92 @@
 <div align="center">
 
-# Hi, I'm Naman Upadhyay 👋
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Naman+Upadhyay+%F0%9F%91%8B;Computer+Science+Student;Software+Developer;Backend+%26+AI+Enthusiast" alt="Typing SVG" />
 
-### Computer Science Student | Software Developer | Backend Enthusiast
+  <p>Passionate about building scalable applications, solving real-world problems, and continuously learning new technologies.</p>
 
-Passionate about building scalable applications, solving real-world problems, and continuously learning new technologies.
-
-<p>
-<a href="mailto:upadhyay_naman@srmap.edu.in">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/NAMANUPADHYAY654">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/naman-upadhyay7733/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://naman-portfolio-azure.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-</p>
-
+  <p>
+    <a href="mailto:upadhyay_naman@srmap.edu.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a href="https://github.com/NAMANUPADHYAY654"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/naman-upadhyay7733/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://naman-portfolio-azure.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  </p>
 </div>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I'm a B.Tech Computer Science student with a strong interest in software engineering, backend development, and system design. I enjoy transforming ideas into practical applications and continuously improving my problem-solving skills through projects and coding challenges.
+I'm a B.Tech Computer Science student with a strong interest in software engineering, full-stack development, and artificial intelligence. I enjoy transforming ideas into practical applications and continuously improving my problem-solving skills through projects and coding challenges.
 
-* 🎓 B.Tech Computer Science Engineering
-* 💻 Backend Development & Full Stack Development
-* 🚀 Strong in C++, Python, JavaScript, PHP and MySQL
-* 📚 Data Structures & Algorithms Enthusiast
-* 🔧 Experience with REST APIs and Web Development
-* 🌱 Currently learning System Design, Cloud Computing and AI
-* ⚡ Always open to learning new technologies
+* 🎓 **Education**: B.Tech Computer Science Engineering
+* 💻 **Focus**: Backend Development, Full Stack Development, and AI
+* 🌱 **Currently Learning**: System Design, Cloud Computing, and AI
+* ⚡ **Fact**: Always open to learning new technologies and contributing to open source!
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,php,html,css,mysql,git,github,vscode,postman" />
-</p>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,typescript,php,html,css" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,fastapi" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode,postman" />
+  </a>
+</div>
 
-### Languages
+### Languages & Frameworks
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-
-### Web Technologies
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-
-### Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+### Databases & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### 🚗 Car Rental Website
+### 🧠 [Aptinova](https://github.com/NAMANUPADHYAY654/Aptinova)
+An AI-Powered Recruitment Platform that streamlines the hiring process by automatically parsing resumes, extracting candidate information, and ranking candidates based on job requirements.
 
-A responsive web application that enables users to browse available vehicles, view rental details, and manage bookings efficiently.
+### 📊 [RepoMetricsAI](https://github.com/NAMANUPADHYAY654/RepoMetricsAI)
+An AI-powered open-source maintainability analyzer. Built with Python (FastAPI) and a futuristic React dashboard to evaluate repository health metrics.
 
-**Tech Used:** HTML, CSS, JavaScript, PHP, MySQL
-
-### 🅿️ Smart Parking Management System
-
-A parking management solution designed to automate parking allocation, reduce congestion, and improve parking space utilization.
-
-**Tech Used:** C++, Data Structures
-
-### 📍 QR Code & Map Integration System
-
-Developed a system integrating QR code generation and map services with API connectivity for efficient location-based operations.
-
-**Tech Used:** JavaScript, APIs, Backend Integration
-
-### 🤖 API & Automation Projects
-
-Built automation solutions and API-driven applications focused on improving workflow efficiency and data processing.
-
-**Tech Used:** Python, REST APIs
+### 💻 [CODE-DAILY](https://github.com/NAMANUPADHYAY654/CODE-DAILY)
+A Daily Coding Challenge Platform. A full-stack application built to provide users with daily coding challenges to improve their algorithmic skills.
 
 ---
 
-## Core Knowledge
+## 📈 GitHub Stats
 
-* Data Structures & Algorithms
-* Object-Oriented Programming
-* Database Management Systems
-* Operating Systems
-* Computer Networks
-* REST APIs
-* Backend Development
-* System Design
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NAMANUPADHYAY654&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NAMANUPADHYAY654&theme=radium&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAMANUPADHYAY654&layout=compact&theme=radium&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
 
 ---
 
-### Learning • Building • Growing
-
-*"Every project is an opportunity to learn something new."*
-
+<div align="center">
+  <i>"Every project is an opportunity to learn something new."</i>
 </div>
