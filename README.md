@@ -77,3 +77,5 @@ A Daily Coding Challenge Platform. A full-stack application built to provide use
 <div align="center">
   <i>"Every project is an opportunity to learn something new."</i>
 </div>
+
+<!-- Pull Shark Trigger 1 -->
