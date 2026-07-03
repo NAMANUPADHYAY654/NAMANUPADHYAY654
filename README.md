@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Naman+Upadhyay+%F0%9F%91%8B;Computer+Science+Student;Software+Developer;Backend+%26+AI+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Naman+Upadhyay;Computer+Science+Student;Software+Developer;Backend+%26+AI+Enthusiast" alt="Typing SVG" />
 
   <p>Passionate about building scalable applications, solving real-world problems, and continuously learning new technologies.</p>
 
@@ -72,20 +72,7 @@ An AI-powered open-source maintainability analyzer. Built with Python (FastAPI) 
 ### 💻 [CODE-DAILY](https://github.com/NAMANUPADHYAY654/CODE-DAILY)
 A Daily Coding Challenge Platform. A full-stack application built to provide users with daily coding challenges to improve their algorithmic skills.
 
----
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NAMANUPADHYAY654&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NAMANUPADHYAY654&theme=radium&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAMANUPADHYAY654&layout=compact&theme=radium&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
-
----
 
 <div align="center">
   <i>"Every project is an opportunity to learn something new."</i>
